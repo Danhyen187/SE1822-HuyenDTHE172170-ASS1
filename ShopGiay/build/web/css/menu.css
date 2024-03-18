@@ -1,0 +1,37 @@
+.logo{
+    width: 60px;
+    height: auto;
+    border-radius: 5%;
+    transition: all 0.3s;
+    filter: grayscale(1);
+}
+navbar-brand{
+    transition: all 0.3s;
+    }
+.navbar-brand :hover{
+    transform: scale(1.3);
+}
+.navMenu{
+    width: 100%;
+    justify-content: space-evenly;
+    display: flex;
+}
+.menu{
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+}
+#jumbo{
+    padding: 30px !important;
+}
+@media (min-width: 576px){
+#jumbo {
+    padding: 4rem 0rem;
+}
+.navbar-toggler{
+    flex-wrap: wrap-reverse;
+}
+}

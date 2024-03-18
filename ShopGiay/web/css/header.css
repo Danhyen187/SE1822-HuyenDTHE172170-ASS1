@@ -1,0 +1,4 @@
+.collapse.show {
+    display: flex;
+    flex-wrap: wrap-reverse;
+}

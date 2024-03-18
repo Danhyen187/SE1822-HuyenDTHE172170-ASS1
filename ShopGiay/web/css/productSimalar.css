@@ -1,0 +1,13 @@
+.swiper-slide{
+/*    width: 300px !important;
+    height: auto !important; */
+}
+.slide__product{
+    width:  60%;
+    height: auto;
+}
+.slide__product-image{
+    width: 80%;
+    height: auto;
+    object-fit: cover;
+}

@@ -1,0 +1,19 @@
+.paging-items li{
+   list-style-type: none;
+}
+.paging-items-numbers{
+   display: inline-block;
+   border: 1px solid;
+   padding: 5px 10px;
+   margin: 10px 3px;
+   border-radius: 10px;
+}
+.paging-items{
+    padding-left: 0;
+}
+.paging-items-numbers:hover{
+        background: chocolate;
+    }
+.active1{
+        background: chocolate;
+}

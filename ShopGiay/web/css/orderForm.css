@@ -1,0 +1,40 @@
+#shoppingCart{
+    margin-bottom: 0;
+}
+.price{
+    text-align: right;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.order-form{
+    border: 1px solid #ddd;
+    padding: 20px 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.order-form h1{
+    background: #89CFF3;
+    border-radius: 10px
+}
+.info{
+    margin-top: 30px;
+    border: 1px solid #ddd;
+    width: 100%;
+    padding: 40px 10px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.order-success{
+    text-align: center;
+    background: #A6FF96;
+    margin: 10px 0;
+    padding: 5px 0;
+    border-radius: 20px;
+}
+.info table tr{
+    width: 100%;
+    
+}
+.info table td{
+    width: 50%;
+}
