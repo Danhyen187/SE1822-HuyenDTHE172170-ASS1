@@ -17,18 +17,11 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
 import java.util.Date;
 
-/**
- *
- * @author DELL
- */
 @WebFilter(urlPatterns = {"/home", "/show", "/checkout"})
 public class LoginFilter implements Filter {
 
     private static final boolean debug = true;
 
-    // The filter configuration object we are associated with.  If
-    // this value is null, this filter instance is not currently
-    // configured. 
     private FilterConfig filterConfig = null;
 
     public LoginFilter() {

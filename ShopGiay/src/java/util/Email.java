@@ -13,8 +13,6 @@ import javax.mail.internet.MimeMessage;
 
 public class Email {
 
-    //Email : phanhuynh681@gmail.com
-    //Password:suvp xujm odgw qynb
     static final String from = "huyendthe172170@fpt.edu.vn";
     static final String password = "purn mnrz qgmy oexr";
 

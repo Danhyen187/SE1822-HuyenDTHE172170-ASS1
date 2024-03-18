@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Checkout
-    Created on : Oct 22, 2023, 8:25:02 AM
-    Author     : DELL
---%>
+
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -17,10 +17,7 @@ import model.Order;
 import model.OrderDetail;
 import model.Product;
 
-/**
- *
- * @author DELL
- */
+
 public class OrderDAO extends DBContext {
 
     public void addOrder(String name, String phone, String address, Account a, Cart cart) {

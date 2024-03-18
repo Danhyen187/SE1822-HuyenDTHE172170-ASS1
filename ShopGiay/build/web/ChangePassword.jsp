@@ -1,8 +1,4 @@
-<%-- 
-    Document   : ChangePassword
-    Created on : Oct 30, 2023, 1:19:36 AM
-    Author     : DELL
---%>
+
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

@@ -1,8 +1,3 @@
-<%-- 
-    Document   : Profile
-    Created on : Oct 14, 2023, 12:13:16 AM
-    Author     : DELL
---%>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -16,10 +16,6 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
 import model.Account;
 
-/**
- *
- * @author hp
- */
 @WebFilter(filterName = "AdminFilter", urlPatterns = {"/manager-orders", "/manage","/statistic","/order-detail"})
 public class AdminFilter implements Filter {
 
