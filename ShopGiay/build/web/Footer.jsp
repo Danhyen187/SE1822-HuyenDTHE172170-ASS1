@@ -15,8 +15,8 @@
                 <p class="footer-company-name">Company Name © 2023</p>
 
                 <div class="footer-icons">
-                    <a href="https://www.facebook.com/ToanDayyyRoi"><i class="fa-brands fa-facebook"></i></a>
-                    <a href="https://www.instagram.com/aatoandayy/"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/nam.huyen.5648137"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/thuhuyen1285/"><i class="fa-brands fa-instagram"></i></a>
                 </div>
 
             </div>
