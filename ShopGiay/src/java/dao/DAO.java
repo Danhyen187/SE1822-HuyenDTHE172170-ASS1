@@ -11,6 +11,7 @@ import model.Account;
 
 import model.Category;
 import model.Product;
+import org.apache.tomcat.dbcp.dbcp2.SQLExceptionList;
 
 public class DAO extends DBContext {
 
@@ -373,8 +374,8 @@ public class DAO extends DBContext {
             st.setInt(6, uID);
             st.executeUpdate();
             return true;
-        } catch (Exception e) {
-            e.getMessage();
+        } catch (SQLException e) {
+            e.printStackTrace();
         }
         return false;
     }

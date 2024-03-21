@@ -34,6 +34,7 @@ public class UpdateProfile extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+
     }
     private static final String UPLOAD_DIR = "uploads";
 
@@ -49,7 +50,7 @@ public class UpdateProfile extends HttpServlet {
         String mess = "";
         int id = -1;
         DAO d = new DAO();
-         String fileName = null;
+        String fileName = null;
         try {
             id = Integer.parseInt(id_raw);
             String applicationPath = request.getServletContext().getRealPath("/");
@@ -60,25 +61,24 @@ public class UpdateProfile extends HttpServlet {
             if (!fileSaveDir.exists()) {
                 fileSaveDir.mkdirs();
             }
-           
+
             Part part = request.getPart("file");
             fileName = getFileName(part);
             part.write(uploadFilePath + File.separator + fileName);
-            
+
         } catch (Exception e) {
             fileName = image;
             mess = "Update information Failed " + e.getMessage();
         }
         if (d.updateAccount(name, email, phone, gender, fileName, id)) {
-                mess = "Update information successfully! " ;
-            } else {
-                mess = "Failed";
-            }
+            mess = "Update information successfully! ";
+            response.sendRedirect("profile?id=" + id);
+        } else {
+            mess = "Failed";
+            request.setAttribute("mess", mess);
+            request.getRequestDispatcher("Profile.jsp").forward(request, response);
+        }
 //        Account acc = d.getAccountById(id);
-//        request.setAttribute("acc", acc);
-//        request.setAttribute("mess", mess);
-//        request.getRequestDispatcher("Profile.jsp").forward(request, response);
-          response.sendRedirect("profile?id="+id);
 
     }
 

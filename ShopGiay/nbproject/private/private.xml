@@ -13,13 +13,16 @@
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/LogoutControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/ChangePassword.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/CheckoutItem.java</file>
+            <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/uploads/Khothietke.net-PNG-02574.png</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/RegisterControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/SignupControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/NewPassword.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/DeleteControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/model/Cart.java</file>
+            <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/uploads/pngtree-skull-png-image_1100560.jpg</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/ShowControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/model/Account.java</file>
+            <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/uploads/wallpaperflare.com_wallpaper%20(12).jpg</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/Login.jsp</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/StatisticControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/AddControl.java</file>
@@ -40,11 +43,13 @@
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/filter/AdminFilter.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/ManagerControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/ManageOrders.jsp</file>
+            <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/uploads/Khothietke.net-PNG-02652.png</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/OtpPassword.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/model/Category.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/ManagerProduct.jsp</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/model/Order.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/dao/StatisticDAO.java</file>
+            <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/uploads/Khothietke.net-PNG-02647.png</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/LoginControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/ProcessControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/OrderDetailControl.java</file>
@@ -66,14 +71,18 @@
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/UpdateProfile.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/model/Product.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/WEB-INF/mycart.html</file>
+            <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/uploads/wallpaperflare.com_wallpaper%20(6).jpg</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/NewPassword.jsp</file>
+            <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/uploads/IMG_20210325_094214_910.jpg</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/Cart.jsp</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/LoadControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/Edit.jsp</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/control/ProfileControl.java</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/filter/LoginFilter.java</file>
+            <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/uploads/202426922_351892519627432_8756823333456975315_n.jpg</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/Left.jsp</file>
             <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/src/java/model/Item.java</file>
+            <file>file:/D:/SE1822_HuyenDTHE172170_Ass1/SE1822-HuyenDTHE172170-ASS1/ShopGiay/web/uploads/wallpaperflare.com_wallpaper%20(17).jpg</file>
         </group>
     </open-files>
 </project-private>
