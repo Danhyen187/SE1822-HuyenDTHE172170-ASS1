@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋,Smart Watch Shop</h1>
+<h1 align="center">Hi 👋,Shoes Shop</h1>
 <p align="center">
-  <h3 align="center">SE1822 - ThanhPHHE176387 - ASS1 </h3>
+  <h3 align="center">SE1822 - HuyenDTHE172170 - ASS1 </h3>
 </p>
 
 # Tên dự án
